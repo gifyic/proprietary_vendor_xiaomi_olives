@@ -8,3 +8,4 @@ PRODUCT_SOONG_NAMESPACES += \
 # Inherit fragments
 $(call inherit-product, vendor/xiaomi/olives/olives-vendor-acdb.mk)
 $(call inherit-product, vendor/xiaomi/olives/olives-vendor-firmware.mk)
+$(call inherit-product, vendor/xiaomi/olives/olives-vendor-ir.mk)
